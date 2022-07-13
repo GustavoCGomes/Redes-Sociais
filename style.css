@@ -7,7 +7,8 @@ body {
 
 header {
     text-align: center;
-    padding: 74px 0px 0px 0px; 
+    padding: 74px 0px 0px 0px;
+    margin-bottom: 41px; 
 }
 
 header > img{
@@ -48,6 +49,7 @@ nav > ul {
 nav > ul > img {
     box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.212);
     border-radius: 10px;
+    max-width: 40px;
 }
 
 main {
