@@ -25,10 +25,10 @@ p {
 }
 
 nav {
-    text-align: center;
     font-weight: bold;
     columns: 2;
-    
+    background-size: contain;
+    max-height: 218px;
 }
 
 main a {
