@@ -53,8 +53,8 @@ nav > ul > img {
 }
 
 main {
-    width: 300px;
-    height: 600px;
+    max-width: 300px;
+    min-height: 600px;
     margin: auto;
     padding: 4px 4px 18px 4px ;
     border-radius: 50px;
