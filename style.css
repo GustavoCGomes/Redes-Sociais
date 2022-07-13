@@ -24,19 +24,20 @@ p {
     color: white;
 }
 
-nav {
-    font-weight: bold;
-    columns: 2;
-    background-size: contain;
-    max-height: 218px;
-}
-
 main a {
     color: white;
 }
 
 main a:hover {
     color: rgba(0, 0, 0, 0.651);
+}
+
+nav {
+    font-weight: bold;
+    columns: 2;
+    background-size: contain;
+    max-height: 218px;
+    min-width: 300;
 }
 
 nav > ul {
