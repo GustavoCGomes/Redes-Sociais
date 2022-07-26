@@ -35,7 +35,7 @@ main a:hover {
 nav {
     font-weight: bold;
     columns: 2;
-    max-height: 230px; 
+    height: 280px; 
     display: block;  
 }
 
