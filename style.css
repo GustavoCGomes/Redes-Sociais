@@ -2,7 +2,6 @@
 
 body {
     background-color: darkgray;
-    
 }
 
 header {
@@ -13,6 +12,7 @@ header {
 
 header > img{
     border-radius: 80px;
+    border: 2px solid black;
     height: 100px;
     width: auto;
 }
