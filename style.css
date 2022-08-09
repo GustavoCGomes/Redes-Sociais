@@ -2,8 +2,9 @@
 
 body {
     background-image: url(imagens/Montanhas.jpg);
-    background-size: 100% 100%;
+    background-position: center center;
     background-repeat: no-repeat;
+    background-size: 100% 100%;
     background-attachment: fixed;
 }
 
