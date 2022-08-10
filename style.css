@@ -15,7 +15,7 @@ header {
 }
 
 header > img{
-    border-radius: 80px;
+    border-radius: 60px;
     border: 2px solid black;
     height: 100px;
     width: auto;
