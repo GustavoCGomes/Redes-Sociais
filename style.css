@@ -67,6 +67,6 @@ main {
     border-radius: 50px;
     background-color: rgba(255, 255, 255, 0.795);
     box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.212);
-    background-image: url('imagens/iphone-noite.jpg');
+    background-image: url('imagens/iphone-manha.png');
     background-size: cover;
 }
