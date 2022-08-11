@@ -36,7 +36,6 @@ main a:hover {
 }
 
 nav {
-    
     font-family: 'Kanit', sans-serif;
     columns: 2;
     height: 280px; 
@@ -47,7 +46,6 @@ nav > ul {
     margin-bottom: 16px;
     margin-top: 0px;
     text-align: center;
-    
     width: 72px;
 }
 
