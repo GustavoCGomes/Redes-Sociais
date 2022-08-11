@@ -1,5 +1,4 @@
 function carregar () {
-    var img = window.document.getElementById('imagem');
     var currentTime = new Date().getHours(); 
 
     //var currentTime = data.getHours()
